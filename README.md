@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Maknix
+- 👀 I’m interested in python and javascript
+- 🌱 I’m currently learning babylonjs
+- 📫 How to reach me Maknix#6969 discord
